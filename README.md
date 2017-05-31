@@ -1,4 +1,4 @@
-Projeto para o curso de [React II da aluda](https://cursos.alura.com.br/course/react-parte-2).
+Projeto para o curso de [React II da Alura](https://cursos.alura.com.br/course/react-parte-2).
 
 
 ## Detalhes
